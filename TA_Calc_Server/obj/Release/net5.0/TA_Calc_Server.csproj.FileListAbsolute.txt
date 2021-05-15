@@ -1,0 +1,15 @@
+C:\Users\rodri\source\repos\TA_Calc_Server\TA_Calc_Server\bin\Release\net5.0\TA_Calc_Server.exe
+C:\Users\rodri\source\repos\TA_Calc_Server\TA_Calc_Server\bin\Release\net5.0\TA_Calc_Server.deps.json
+C:\Users\rodri\source\repos\TA_Calc_Server\TA_Calc_Server\bin\Release\net5.0\TA_Calc_Server.runtimeconfig.json
+C:\Users\rodri\source\repos\TA_Calc_Server\TA_Calc_Server\bin\Release\net5.0\TA_Calc_Server.runtimeconfig.dev.json
+C:\Users\rodri\source\repos\TA_Calc_Server\TA_Calc_Server\bin\Release\net5.0\TA_Calc_Server.dll
+C:\Users\rodri\source\repos\TA_Calc_Server\TA_Calc_Server\bin\Release\net5.0\ref\TA_Calc_Server.dll
+C:\Users\rodri\source\repos\TA_Calc_Server\TA_Calc_Server\bin\Release\net5.0\TA_Calc_Server.pdb
+C:\Users\rodri\source\repos\TA_Calc_Server\TA_Calc_Server\obj\Release\net5.0\TA_Calc_Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\TA_Calc_Server\TA_Calc_Server\obj\Release\net5.0\TA_Calc_Server.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\TA_Calc_Server\TA_Calc_Server\obj\Release\net5.0\TA_Calc_Server.AssemblyInfo.cs
+C:\Users\rodri\source\repos\TA_Calc_Server\TA_Calc_Server\obj\Release\net5.0\TA_Calc_Server.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\TA_Calc_Server\TA_Calc_Server\obj\Release\net5.0\TA_Calc_Server.dll
+C:\Users\rodri\source\repos\TA_Calc_Server\TA_Calc_Server\obj\Release\net5.0\ref\TA_Calc_Server.dll
+C:\Users\rodri\source\repos\TA_Calc_Server\TA_Calc_Server\obj\Release\net5.0\TA_Calc_Server.pdb
+C:\Users\rodri\source\repos\TA_Calc_Server\TA_Calc_Server\obj\Release\net5.0\TA_Calc_Server.genruntimeconfig.cache

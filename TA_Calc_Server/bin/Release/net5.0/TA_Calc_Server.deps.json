@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TA_Calc_Server/1.0.0": {
+        "runtime": {
+          "TA_Calc_Server.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TA_Calc_Server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
